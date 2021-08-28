@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning GraphQl
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about ReactJs
-- 📫 How to reach me: telegram username <a href="https://t.me/kholiov_zokirjon">@kholikov_zokirjon</a>
+- 📫 How to reach me: telegram username <a href="https://t.me/@kholiov_zokirjon">@kholikov_zokirjon</a>
 
 📈 my github stats
 
