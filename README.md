@@ -24,10 +24,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+
+Here are some ideas to get you started:
+- 🔭 I’m currently working in Silkroad Tashkent
+- 🌱 I’m currently learning GraphQl
+- 👯 I’m looking to collaborate on opensource projects
+- 💬 Ask me about ReactJs
+- 📫 How to reach me: telegram username <a href="https://t.me/kholiov_zokirjon">@kholikov_zokirjon</a>
+
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ZokirjonKholikov&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-
-
-
+<a href="#">
+  <img align="center" alt="Genemator's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZokirjonKholikov&layout=compact&langs_count=20&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000" />
+</a>
 
