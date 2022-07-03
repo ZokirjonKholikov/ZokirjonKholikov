@@ -29,7 +29,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working in Silkroad Tashkent
 - 🌱 I’m currently learning GraphQl
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about ReactJs
